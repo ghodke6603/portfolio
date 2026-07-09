@@ -55,5 +55,5 @@
     "build": "CI=false react-scripts build"
   }
 
-  
+
 }
